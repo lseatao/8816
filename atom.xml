@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lseatao.github.io</id>
+    <id>https://lseatao.github.io/8816</id>
     <title>Gridea</title>
-    <updated>2020-08-14T00:26:41.380Z</updated>
+    <updated>2020-08-14T00:30:31.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lseatao.github.io"/>
-    <link rel="self" href="https://lseatao.github.io/atom.xml"/>
+    <link rel="alternate" href="https://lseatao.github.io/8816"/>
+    <link rel="self" href="https://lseatao.github.io/8816/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://lseatao.github.io/images/avatar.png</logo>
-    <icon>https://lseatao.github.io/favicon.ico</icon>
+    <logo>https://lseatao.github.io/8816/images/avatar.png</logo>
+    <icon>https://lseatao.github.io/8816/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[用户体验设计师的5条宝贵的心理学原理]]></title>
-        <id>https://lseatao.github.io/post/yong-hu-ti-yan-she-ji-shi-de-5-tiao-bao-gui-de-xin-li-xue-yuan-li/</id>
-        <link href="https://lseatao.github.io/post/yong-hu-ti-yan-she-ji-shi-de-5-tiao-bao-gui-de-xin-li-xue-yuan-li/">
+        <id>https://lseatao.github.io/8816/post/yong-hu-ti-yan-she-ji-shi-de-5-tiao-bao-gui-de-xin-li-xue-yuan-li/</id>
+        <link href="https://lseatao.github.io/8816/post/yong-hu-ti-yan-she-ji-shi-de-5-tiao-bao-gui-de-xin-li-xue-yuan-li/">
         </link>
         <updated>2020-08-13T23:29:36.000Z</updated>
         <content type="html"><![CDATA[<p>1.指定目标对象<br>
@@ -50,38 +50,6 @@
 如果您曾经想过在初创公司工作，那么这是要学习的第一件事。心理学在这里代表什么？首先，您将使用上述所有以前的优惠以及一项新优惠。<br>
 对于产品路线图，最后期限至关重要。了解您的工作速度和心理，您将不仅可以为您和您的团队预测短期任务，而且可以预测长期任务。<br>
 这意味着您将按时完成任务，并且不会削减或拒绝该产品的功能。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lseatao.github.io/post/hello-gridea/</id>
-        <link href="https://lseatao.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
