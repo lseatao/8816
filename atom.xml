@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lseatao.github.io/8816</id>
     <title>Surround 丶海</title>
-    <updated>2020-08-15T23:41:57.975Z</updated>
+    <updated>2020-08-20T04:48:44.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lseatao.github.io/8816"/>
     <link rel="self" href="https://lseatao.github.io/8816/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://lseatao.github.io/8816/images/avatar.png</logo>
     <icon>https://lseatao.github.io/8816/favicon.ico</icon>
     <rights>All rights reserved 2020, Surround 丶海</rights>
+    <entry>
+        <title type="html"><![CDATA[SIGN模型]]></title>
+        <id>https://lseatao.github.io/8816/post/sign-mo-xing/</id>
+        <link href="https://lseatao.github.io/8816/post/sign-mo-xing/">
+        </link>
+        <updated>2020-08-20T01:05:09.000Z</updated>
+        <content type="html"><![CDATA[<p>“S”就是“Success”——就是自我效能感很强，觉得自己肯定能行的。<br>
+“I”就是“Instinct”——就是你自发性的，没有别人逼你的，是你迫不及待想尝试的。<br>
+“G”就是“Grow”——就是你发现自己学得很快。<br>
+&quot;N&quot;就是“Need”——就是事后充满满足感，过程中有一种“做这件事本身就是回报”的感受。<br>
+“SIGN”其实分别满足的是：自我效能、热爱、天赋、需求。符合的条件越多，越有机会发展成优势。</p>
+<p>你的天赋就是你喜欢的，你愿意学的，你学得很快的，并且学好了会让你非常开心非常幸福的。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用户体验设计师的5条宝贵的心理学原理]]></title>
         <id>https://lseatao.github.io/8816/post/yong-hu-ti-yan-she-ji-shi-de-5-tiao-bao-gui-de-xin-li-xue-yuan-li/</id>
